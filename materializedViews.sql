@@ -1,4 +1,5 @@
 /*Se actualiza cada semana*/
+/*3am y 11pm*/
 
 /*Estado del producto*/
 CREATE MATERIALIZED VIEW EstadoProd_vista 
