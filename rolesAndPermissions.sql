@@ -1,4 +1,4 @@
-/*Administrador(administrador compañia)(Select,Update)*/
+/*Administrador(administrador compaÃ±ia)(Select,Update)*/
 
 CREATE ROLE rol_administrador;
 
@@ -187,7 +187,7 @@ ON CLIENTE
 to rol_desarrollador; 
 
 
-/*Digitador*(insert)/
+/*Digitador*(insert)*/
 
 CREATE ROLE rol_digitador;
 
